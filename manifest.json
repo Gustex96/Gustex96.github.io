@@ -16,7 +16,7 @@
                 "tt"
             ],
             "addonCatalogs": [
-                {
+               {
                     "type": "movie",
                     "id": "community",
                     "name": "Community"
